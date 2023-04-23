@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Lambdola.
-- 👀 I’m interested in learning Data Analysis.
-- 🌱 I’m currently learning Python and its syntax implementation, and taking an Online Computer Science Course (CS50x) with Harvard.
+- 👀 I’m currently pursuing a career in Tech: a Full-Stack Developer.
+- 🌱 I’m currently learning JavaScript/React and its implementation.
+- ⏲ I just recently finished an Online Computer Science Course (CS50x) with Harvard.
 - 💞️ I’m looking to collaborate on anything fun that would further broaden my scope of knowledge 
 - 📫 How to reach me;           
 on Twitter: @elijahdimeji549 , on IG : @lambdola , on WhatsApp : 07037887923
